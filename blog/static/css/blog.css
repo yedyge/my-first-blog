@@ -1,13 +1,16 @@
 h1 a {
-    color: #AD90E8;
+    color: #F7B931;
     font-family: 'Indie Flower', cursive;
 
 }
-body {
+body
+{
+
     padding-left: 15px;
+    padding-right: 15px;
 }
 .page-header {
-    background-color: #ff9400;
+    background-color: #FF8541;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -19,10 +22,10 @@ body {
 }
 
 .content {
-    margin-left: 40px;
+    margin-left: 80px;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, {
     font-family: 'Lobster', cursive;
 }
 
